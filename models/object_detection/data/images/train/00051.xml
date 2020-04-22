@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Test</folder>
+	<filename>00051.png</filename>
+	<path>/Users/Angyu/Downloads/gtsrb-german-traffic-sign/Test/00051.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>155</width>
+		<height>143</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Yield</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>15</xmin>
+			<ymin>21</ymin>
+			<xmax>144</xmax>
+			<ymax>122</ymax>
+		</bndbox>
+	</object>
+</annotation>
