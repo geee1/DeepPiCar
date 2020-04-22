@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test2014</folder>
+	<filename>COCO_test2014_000000013071.jpg</filename>
+	<path>/Users/Angyu/Downloads/test2014/COCO_test2014_000000013071.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>427</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Traffic light</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>98</xmin>
+			<ymin>233</ymin>
+			<xmax>176</xmax>
+			<ymax>388</ymax>
+		</bndbox>
+	</object>
+</annotation>

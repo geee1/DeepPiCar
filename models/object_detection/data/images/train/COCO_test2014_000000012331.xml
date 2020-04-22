@@ -1,0 +1,50 @@
+<annotation>
+	<folder>test2014</folder>
+	<filename>COCO_test2014_000000012331.jpg</filename>
+	<path>/Users/Angyu/Downloads/test2014/COCO_test2014_000000012331.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Traffic light</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>272</xmin>
+			<ymin>84</ymin>
+			<xmax>330</xmax>
+			<ymax>197</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Pedestrians</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>224</xmin>
+			<ymin>252</ymin>
+			<xmax>257</xmax>
+			<ymax>283</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Traffic light</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>398</xmin>
+			<ymin>241</ymin>
+			<xmax>417</xmax>
+			<ymax>267</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>test2014</folder>
+	<filename>COCO_test2014_000000010246.jpg</filename>
+	<path>/Users/Angyu/Downloads/test2014/COCO_test2014_000000010246.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Yield</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>184</xmin>
+			<ymin>60</ymin>
+			<xmax>322</xmax>
+			<ymax>200</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Traffic light</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>167</xmin>
+			<ymin>197</ymin>
+			<xmax>360</xmax>
+			<ymax>609</ymax>
+		</bndbox>
+	</object>
+</annotation>
