@@ -1,0 +1,50 @@
+<annotation>
+	<folder>test2014</folder>
+	<filename>COCO_test2014_000000005938.jpg</filename>
+	<path>/Users/Angyu/Downloads/test2014/COCO_test2014_000000005938.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>386</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Keep left</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>64</xmin>
+			<ymin>214</ymin>
+			<xmax>106</xmax>
+			<ymax>231</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Keep left</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>453</xmin>
+			<ymin>185</ymin>
+			<xmax>494</xmax>
+			<ymax>207</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Stop</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>418</xmin>
+			<ymin>175</ymin>
+			<xmax>456</xmax>
+			<ymax>215</ymax>
+		</bndbox>
+	</object>
+</annotation>
