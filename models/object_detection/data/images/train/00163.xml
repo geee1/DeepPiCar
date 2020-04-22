@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Test</folder>
+	<filename>00163.png</filename>
+	<path>/Users/Angyu/Downloads/gtsrb-german-traffic-sign/Test/00163.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>37</width>
+		<height>38</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Road work</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>7</xmin>
+			<ymin>8</ymin>
+			<xmax>34</xmax>
+			<ymax>34</ymax>
+		</bndbox>
+	</object>
+</annotation>
