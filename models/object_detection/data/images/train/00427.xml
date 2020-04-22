@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Test</folder>
+	<filename>00427.png</filename>
+	<path>/Users/Angyu/Downloads/gtsrb-german-traffic-sign/Test/00427.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>36</width>
+		<height>36</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Dangerous curve to the right</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>10</xmin>
+			<ymin>11</ymin>
+			<xmax>34</xmax>
+			<ymax>35</ymax>
+		</bndbox>
+	</object>
+</annotation>
