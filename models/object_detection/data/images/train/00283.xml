@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Test</folder>
+	<filename>00283.png</filename>
+	<path>/Users/Angyu/Downloads/gtsrb-german-traffic-sign/Test/00283.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>26</width>
+		<height>26</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>General caution</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3</xmin>
+			<ymin>9</ymin>
+			<xmax>23</xmax>
+			<ymax>24</ymax>
+		</bndbox>
+	</object>
+</annotation>
