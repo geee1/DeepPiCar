@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test2014</folder>
+	<filename>COCO_test2014_000000011898.jpg</filename>
+	<path>/Users/Angyu/Downloads/test2014/COCO_test2014_000000011898.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>426</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Pedestrians</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>26</xmin>
+			<ymin>28</ymin>
+			<xmax>171</xmax>
+			<ymax>156</ymax>
+		</bndbox>
+	</object>
+</annotation>
