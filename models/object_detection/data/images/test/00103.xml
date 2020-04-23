@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Test</folder>
+	<filename>00103.png</filename>
+	<path>/Users/Angyu/Downloads/gtsrb-german-traffic-sign/Test/00103.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>45</width>
+		<height>41</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Right of way at the next cross road</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>7</xmin>
+			<ymin>6</ymin>
+			<xmax>41</xmax>
+			<ymax>35</ymax>
+		</bndbox>
+	</object>
+</annotation>
