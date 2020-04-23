@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test2014</folder>
+	<filename>COCO_test2014_000000015807.jpg</filename>
+	<path>/Users/Angyu/Downloads/test2014/COCO_test2014_000000015807.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Bus</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>97</xmin>
+			<ymin>167</ymin>
+			<xmax>447</xmax>
+			<ymax>361</ymax>
+		</bndbox>
+	</object>
+</annotation>

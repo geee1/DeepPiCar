@@ -1,0 +1,38 @@
+<annotation>
+	<folder>test2014</folder>
+	<filename>COCO_test2014_000000018061.jpg</filename>
+	<path>/Users/Angyu/Downloads/test2014/COCO_test2014_000000018061.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>474</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Zebra crossing</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>194</ymin>
+			<xmax>402</xmax>
+			<ymax>396</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Traffic light</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>18</xmin>
+			<ymin>47</ymin>
+			<xmax>357</xmax>
+			<ymax>139</ymax>
+		</bndbox>
+	</object>
+</annotation>
