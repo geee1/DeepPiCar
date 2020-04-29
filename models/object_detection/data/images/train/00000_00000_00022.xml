@@ -1,0 +1,26 @@
+<annotation>
+	<folder>0</folder>
+	<filename>00000_00000_00022.png</filename>
+	<path>/Users/Angyu/Downloads/gtsrb-german-traffic-sign/Train/0/00000_00000_00022.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>63</width>
+		<height>61</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Speed Limit (20km/h)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>6</xmin>
+			<ymin>4</ymin>
+			<xmax>59</xmax>
+			<ymax>56</ymax>
+		</bndbox>
+	</object>
+</annotation>
