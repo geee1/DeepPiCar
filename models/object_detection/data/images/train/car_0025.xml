@@ -1,0 +1,26 @@
+<annotation>
+	<folder>car</folder>
+	<filename>car_0025.jpg</filename>
+	<path>/Users/Angyu/Downloads/natural-images/data/natural_images/car/car_0025.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>100</width>
+		<height>100</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2</xmin>
+			<ymin>3</ymin>
+			<xmax>99</xmax>
+			<ymax>95</ymax>
+		</bndbox>
+	</object>
+</annotation>
