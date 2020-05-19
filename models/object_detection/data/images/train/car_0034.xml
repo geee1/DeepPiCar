@@ -1,7 +1,7 @@
 <annotation>
-	<folder>car</folder>
-	<filename>car_0034.jpg</filename>
-	<path>/Users/Angyu/Downloads/natural-images/data/natural_images/car/car_0034.jpg</path>
+	<folder>car2</folder>
+	<filename>car_0034.png</filename>
+	<path>/Users/Angyu/Downloads/car2/car_0034.png</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -18,9 +18,9 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>1</xmin>
-			<ymin>1</ymin>
+			<ymin>2</ymin>
 			<xmax>100</xmax>
-			<ymax>97</ymax>
+			<ymax>95</ymax>
 		</bndbox>
 	</object>
 </annotation>
