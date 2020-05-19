@@ -1,26 +1,26 @@
 <annotation>
 	<folder>coco</folder>
-	<filename>COCO_test2014_000000000027.png</filename>
-	<path>/Users/Angyu/Downloads/coco/COCO_test2014_000000000027.png</path>
+	<filename>COCO_test2014_000000001411.png</filename>
+	<path>/Users/Angyu/Downloads/coco/COCO_test2014_000000001411.png</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
 		<width>640</width>
-		<height>478</height>
+		<height>428</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>Car</name>
+		<name>Bus</name>
 		<pose>Unspecified</pose>
-		<truncated>1</truncated>
+		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>8</xmin>
-			<ymin>62</ymin>
-			<xmax>527</xmax>
-			<ymax>478</ymax>
+			<xmin>110</xmin>
+			<ymin>8</ymin>
+			<xmax>603</xmax>
+			<ymax>390</ymax>
 		</bndbox>
 	</object>
 </annotation>
